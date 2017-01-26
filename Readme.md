@@ -1,4 +1,4 @@
-### React/Redux/ES6/Webpack Front end
+# React/Redux/ES6/Webpack Front end
 
 Front end built on React, Redux, React-Toolbox on Webpack
 
